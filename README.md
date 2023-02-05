@@ -7,4 +7,6 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: dretekin@gmail.com
 - 😄 Pronouns: Coder
-- ⚡ Fun fact: I love C on the low and will see into it someday.
+- ⚡ Fun fact: I love C on the low and will definetely see into it someday.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dretekin)](https://github.com/dretekin/github-profile-trophy)
