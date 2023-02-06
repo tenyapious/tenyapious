@@ -9,4 +9,4 @@
 - 😄 Pronouns: Coder
 - ⚡ Fun fact: I love C on the low and will definetely see into it someday.
 
-:information_source: I changed my username from "dretekin" to reflect my real name 
+:information_source: I decided to change my username from "dretekin" to reflect my real name!
