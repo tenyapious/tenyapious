@@ -8,5 +8,3 @@
 - 📫 How to reach me: tenyapious@gmail.com
 - 😄 Pronouns: Coder
 - ⚡ Fun fact: I love C on the low and will definetely see into it someday.
-
-[//] :information_source: I decided to change my username from "dretekin" to "tenyapious" which reflect my real name!
