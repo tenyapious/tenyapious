@@ -7,6 +7,6 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: tenyapious@gmail.com
 - 😄 Pronouns: Coder
-- ⚡ Fun fact: I love C on the low and will definetely see into it someday.
+- ⚡ Fun fact: I can C.
 
 :information_source:	I renamed my github account from https://github.com/dretekin/ to reflect my real name https://github.com/tenyapious/
