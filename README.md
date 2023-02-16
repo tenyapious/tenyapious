@@ -9,4 +9,3 @@
 - 😄 Pronouns: Coder
 - ⚡ Fun fact: I can C.
 
-:information_source:	I renamed my github account from https://github.com/dretekin/ to reflect my real name https://github.com/tenyapious/
